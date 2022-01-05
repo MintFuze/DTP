@@ -1,0 +1,72 @@
+h1{
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+color: white;
+width: 500px;
+height: 40px;
+left: 123px;
+top: 27px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+margin-right: 320px;
+cursor: default;
+}
+
+
+p{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+}
+.header-a-1
+{
+    color: white;
+    width: 370px;
+height: 13px;
+margin: 30px 50px 41px 0px;
+
+font-family: Roboto;
+font-size: 15px;
+line-height: 18px;
+}
+.header-a-1:hover
+{
+    color: var(--bright-blue);
+}
+
+.header-a-2
+{
+    color: white;
+    width: 210px;
+height: 13px;
+margin: 30px 50px 41px 0px;
+
+font-family: Roboto;
+font-size: 15px;
+line-height: 18px;
+}
+
+.header-a-2:hover
+{
+    color: var(--bright-blue);
+}
+
+.nav-a
+{
+    color: black;
+}
+
+.nav-a:hover
+{
+    color: var(--bright-blue);
+}
+
+.photo
+{
+    color: var(--bright-blue);
+} 
