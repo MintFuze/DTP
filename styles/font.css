@@ -29,11 +29,17 @@ h2{
     cursor: default;
 }
 
+li{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+}
 
 p{
     margin:0;
     font-family: 'Roboto', sans-serif;
 }
+
 .header-a-1
 {
 color: white;
@@ -80,3 +86,16 @@ line-height: 18px;
 {
     color: var(--bright-blue);
 } 
+
+.text{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 23px;
+color: #000000;
+}
+
+.text-ul{
+    font-size: 19px;
+}

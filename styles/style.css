@@ -80,8 +80,16 @@ a{
     text-decoration: none;
 }
 
+.slide{
+    list-style: none;
+    width: 250px;
+height: 25px;
+margin-left: 10px;
+display: flex;
+justify-content: center;
+}
 
-li{
+.nav-li{
     list-style: none;
     width: 250px;
 height: 25px;
@@ -203,4 +211,22 @@ justify-content: center;
     top: 0px;
     margin: auto;
     background: #0F212B;
+    border-radius: 10px;
+}
+
+#img-wrappers
+{
+    margin: 74px 0px 74px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text-wrapper
+{
+    width: 1290px;
+height: 1021px;
+left: 0px;
+top: 545px;
+padding: 0px 65px;
+
 }
