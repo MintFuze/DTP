@@ -99,3 +99,21 @@ color: #000000;
 .text-ul{
     font-size: 19px;
 }
+
+.footer-a{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    color:white;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.footer-p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    color:white;
+    font-size: 14px;
+}
