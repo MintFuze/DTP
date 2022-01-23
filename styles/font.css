@@ -1,14 +1,12 @@
 h1{
-    width: 970px;
+    width: 100%;
     height: 30px;
-    margin-left: 160px;
-
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
     line-height: 42px;
-    
+    text-align: center;
     color: #FFFFFF;
     
 
@@ -16,16 +14,14 @@ h1{
 
 h2{
     color: white;
-    width: 500px;
+    max-width: 500px;
+    width: 100%;
     height: 40px;
-    left: 123px;
-    top: 27px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 21px;
-    margin-right: 320px;
     cursor: default;
 }
 
@@ -116,4 +112,5 @@ color: #000000;
     font-weight: normal;
     color:white;
     font-size: 14px;
+    text-align: center;
 }
